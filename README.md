@@ -1,2 +1,3 @@
 # deploying-eks-auto-mode-with-terraform
-Code for Deploying Amazon EKS Auto-Mode using Terraform
+
+This repository is a companion piece to a blog post about deploying Amazon's EKS Auto-Mode with Terraform which can be [found here](https://thetestlabs.io/posts/deploying-eks-auto-mode-with-terraform/).
